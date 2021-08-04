@@ -1,2 +1,3 @@
 # Data_Analytics_Portfolio
-Person website to showcase Data Analytics skills
+This is a personal website to showcase my Data Analytics skills : https://vidurv2.github.io/Data_Analytics_Portfolio/
+
